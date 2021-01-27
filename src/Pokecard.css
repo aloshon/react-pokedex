@@ -1,0 +1,15 @@
+.Pokemon {
+    border: 2px solid black;
+    display: inline-block;
+    margin: 5px 10px;
+    height: 220px;
+    text-align: center;
+}
+
+.poke-name {
+    font-family:  Geneva, Verdana, sans-serif;
+    color: darkblue;
+    margin-top: 3px;
+}
+
+
